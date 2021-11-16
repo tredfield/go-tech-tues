@@ -18,6 +18,8 @@ type widget struct {
 var widgets = []widget{
 	{Id: 1, Name: "camera widget", Description: "a camera widget thing"},
 	{Id: 2, Name: "other widget", Description: "other widget"},
+	{Id: 3, Name: "magic widget", Description: "it does magic"},
+	{Id: 4, Name: "beer me widget", Description: "it likes beer"},
 }
 
 func widgetHandler(w http.ResponseWriter, r *http.Request) {
