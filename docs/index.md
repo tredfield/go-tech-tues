@@ -1,15 +1,10 @@
 # Welcome to go-tech-tues
 
-## Commands
+Software Solutions tech Tuesday with Go!
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+go-tech-tues is a tiny service made with [Go](https://golang.org) that showcases how to easily develop go apps
 
-## Project layout
+## Guides
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- [go 101](go-101.md)
+- [Hello World in Go](go-hello-world.md)
