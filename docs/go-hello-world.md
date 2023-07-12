@@ -77,6 +77,6 @@ In many other languages you need to deploy your app to a web app server or "bund
 
 ## Next
 
-[Run go-tech-tues](run-go-tech-tues.md.md)
+[Run go-tech-tues](run-go-tech-tues.md)
 
 ![gopher ninja](images/gopher-ninja.png)
